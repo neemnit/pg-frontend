@@ -5,6 +5,7 @@ import Login from "./components/Login";
 import Building from "./components/Building";
 import { useEffect, useState } from "react";
 import Room from "./components/Room";
+import "./App.css"
 import Tenant from "./components/Tenant";
 import PrivateRoute from "./components/PrivateRoute"; // Import the PrivateRoute component
 
@@ -23,7 +24,7 @@ function App() {
   };
 
   return (
-    <div>
+    <div className="app-container">
     <Router>
       <Routes>
         <Route
