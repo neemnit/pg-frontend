@@ -23,7 +23,7 @@ function App() {
   };
 
   return (
-    <div className="bg-[url('https://p2-ofp.static.pub//fes/cms/2024/02/21/qqza9d1bcr0wde3wkw063ld98ehm16866685.png')] bg-cover bg-center bg-no-repeat">
+    <div className="h-full bg-[url('https://p2-ofp.static.pub//fes/cms/2024/02/21/qqza9d1bcr0wde3wkw063ld98ehm16866685.png')] bg-cover bg-center bg-no-repeat">
     <Router>
       <Routes>
         <Route
