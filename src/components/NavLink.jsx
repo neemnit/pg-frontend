@@ -38,7 +38,7 @@ const NavLink = ({ userLoggedIn, handleAuth }) => {
   return (
     <div>
       {/* Fixed Navigation Bar */}
-      <nav className="fixed top-0 left-0 w-full h-16 z-50 shadow-lg bg-cyan-800">
+      <nav className="fixed top-0 left-0 w-full h-16 z-50 shadow-lg bg-cyan-800 bg-[url('https://p2-ofp.static.pub//fes/cms/2024/02/21/qqza9d1bcr0wde3wkw063ld98ehm16866685.png')] bg-cover bg-center bg-no-repeat">
         <ul className="list-none flex justify-between items-center h-full px-4">
           <li className="flex items-center space-x-2">
             <span className="text-lg sm:text-xl md:text-3xl">🏠</span>
