@@ -23,6 +23,7 @@ function App() {
   };
 
   return (
+    <div>
     <Router>
       <Routes>
         <Route
@@ -65,6 +66,7 @@ function App() {
         </Route>
       </Routes>
     </Router>
+      </div>
   );
 }
 
