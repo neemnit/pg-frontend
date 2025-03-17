@@ -24,7 +24,7 @@ function App() {
   };
 
   return (
-    <div className="app-container">
+    <div className="bg-red-800 h-full">
     <Router>
       <Routes>
         <Route
